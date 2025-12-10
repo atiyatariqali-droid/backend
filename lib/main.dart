@@ -18,6 +18,7 @@ class MyApp extends StatelessWidget {
         '/home': (context) => HomePage(),
         '/login': (context) => LoginPage(),
         '/dashboard': (context) => DashboardPage(),
+         '/dashboards': (context) => DashboardPage(),
       },
     );
   }
